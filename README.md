@@ -1,4 +1,3 @@
-# 当代人工智能 project 3
 
 # Intro
 
